@@ -4,4 +4,6 @@ testo asdf
 echo 
 jhjjj
 ;l,;,l,l;,
-sadfasdf
+
+asd
+sadfasdf;
